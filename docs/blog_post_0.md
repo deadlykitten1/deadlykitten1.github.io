@@ -1,4 +1,4 @@
-Why I chose to become a Data Scientist
+# Why I chose to become a Data Scientist
 
 I used to be a Software Engineer. I attended Middlebury College, a liberal arts school in Vermont, where I studied Computer Science and Film. I learned how to code in various languages, particularly Java and C.
 I learned the Unix command line, and how computers work on a level as granular as transistors. My capstone project was a (bad) video game that my friend and I coded using C# scripts in the Unity engine. I graduated in May of 2019, and began working as a Software Engineer in August of that year.
